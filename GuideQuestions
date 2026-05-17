@@ -1,7 +1,1 @@
-A. Model Performance1. 
-Which pre-trained model achieved the highest accuracy? Why?
-ResNet50 achieved the highest test accuracy ($77.34\%$).
-Why: Its skip-connections (residual blocks) allow it to train much deeper architectures effectively 
-without suffering from the vanishing gradient problem. This enables the model to extract highly complex, 
-hierarchical spatial features from the bonsai images compared to VGG16's shallower, sequential structure.
 
